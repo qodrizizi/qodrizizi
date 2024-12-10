@@ -1,25 +1,14 @@
 # Halo, Saya Ahmad Al Qodri! 👋
 🎓 Mahasiswa IT di Universitas Muhammadiyah Sumatera Utara  
 🔍 Berfokus pada Digital Forensics dan Keamanan Web  
-🛠️ **Skill:** PHP, CodeIgniter, Laravel, Digital Forensics  
 🌱 Sedang belajar tentang forensik jaringan dan analisis malware  
 
 ---
 🛠️ **Skill:**  
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>  
-<img src="https://img.shields.io/badge/CodeIgniter-EE4623?style=for-the-badge&logo=codeigniter&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>  
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>  
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>  
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>  
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/CodeIgniter-EE4623?style=for-the-badge&logo=codeigniter&logoColor=white"/> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>  
 
 🔍 **Forensic Tools:**  
-<img src="https://img.shields.io/badge/Autopsy-007396?style=for-the-badge&logo=apache&logoColor=white"/>  
-<img src="https://img.shields.io/badge/FTK%20Imager-0066CC?style=for-the-badge&logoColor=white"/>  
-<img src="https://img.shields.io/badge/EnCase-02569B?style=for-the-badge&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Autopsy-007396?style=for-the-badge&logo=apache&logoColor=white"/> <img src="https://img.shields.io/badge/FTK%20Imager-0066CC?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/EnCase-02569B?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/> <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/> <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
 
 ---
 
