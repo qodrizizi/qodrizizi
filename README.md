@@ -25,7 +25,7 @@
 ---
 
 ### 📊 **Statistik GitHub Saya**
-![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=qodrizizi&show_icons=true&theme=radical)[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qodrizizi&layout=compact&theme=radical)
+![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=qodrizizi&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qodrizizi&layout=compact&theme=radical)
 
 ---
 
