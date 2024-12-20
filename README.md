@@ -38,8 +38,4 @@
 
 ---
 
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=qodrizizi&theme=github)
-
----
-
 > *"Sebuah kode yang bersih adalah seni yang membentuk masa depan teknologi."*
