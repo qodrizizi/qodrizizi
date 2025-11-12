@@ -184,10 +184,6 @@ lokasi: Medan, Sumatera Utara
 
 <div align="center">
 
----
-
-<div align="center">
-
 ### 💖 Support My Work
 
 If you find my projects helpful, consider giving them a ⭐️!
