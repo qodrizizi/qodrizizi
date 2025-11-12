@@ -144,30 +144,6 @@ lokasi: Medan, Sumatera Utara
 
 ---
 
-## 🌟 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/qodrizizi/jeumpa-hospital">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=qodrizizi&repo=jeumpa-hospital&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
-
-<a href="https://github.com/qodrizizi/alumni-information-system-api">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=qodrizizi&repo=alumni-information-system-api&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
-
-</div>
-
-### 💼 Project Highlights
-
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| **🏥 Jeumpa Hospital Backend** | Sistem manajemen rumah sakit dengan fitur lengkap | CodeIgniter 4, MySQL, REST API |
-| **🎓 Alumni Information System** | Platform manajemen data alumni & tracking karir | Laravel 11, MySQL, Sanctum |
-| **🔐 Forensic Analysis Tools** | Collection of digital forensic utilities | Python, Volatility, Autopsy |
-
----
-
 ## 📈 Coding Activity
 
 <!--START_SECTION:waka-->
@@ -208,15 +184,6 @@ lokasi: Medan, Sumatera Utara
 
 <div align="center">
 
-### 🎯 2025 Goals
-
-- 🔐 Mendapatkan sertifikasi CEH (Certified Ethical Hacker)
-- 📚 Mendalami Advanced Malware Analysis
-- 🚀 Berkontribusi lebih banyak di Open Source Projects
-- 💡 Membuat konten edukatif tentang Cybersecurity
-
-</div>
-
 ---
 
 <div align="center">
@@ -245,6 +212,6 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 <div align="center">
   
-![Snake animation](https://raw.githubusercontent.com/qodrizizi/qodrizizi/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/qodrizizi/output/github-contribution-grid-snake-dark.svg)
 
 <sub>Made with 💙 by Ahmad Al Qodri</sub>
