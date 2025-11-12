@@ -211,7 +211,5 @@ I'm always open to interesting conversations and collaboration opportunities!
 ---
 
 <div align="center">
-  
-![Snake animation](https://raw.githubusercontent.com/qodrizizi/output/github-contribution-grid-snake-dark.svg)
 
 <sub>Made with 💙 by Ahmad Al Qodri</sub>
